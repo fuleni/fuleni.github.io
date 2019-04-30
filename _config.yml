@@ -11,8 +11,8 @@ github_repo: "https://github.com/fuleni/fuleni.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "冠军在向我招手!"
-sidebar-avatar: /img/ZJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "扶摇直上九万里!"
+sidebar-avatar: /img/TS.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
