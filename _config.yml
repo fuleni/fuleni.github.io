@@ -7,7 +7,7 @@ description: "上善若水，水善利万物而不争."
 keyword: "ZJ, ZJ Blog, 张佳的博客, fuleni, 张佳"
 url: "http://fuleni.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/fuleni/fuleni.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
