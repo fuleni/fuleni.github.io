@@ -1,7 +1,7 @@
 # Site settings
 title: ZJ Blog
 SEOTitle: 张佳的博客 | ZJ Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/BG.jpg
 email: dearzhangjia@gmail.com
 description: "上善若水，水善利万物而不争."
 keyword: "ZJ, ZJ Blog, 张佳的博客, fuleni, 张佳"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/fuleni/fuleni.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "冠军在向我招手!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ZJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
